@@ -1,8 +1,8 @@
 # Find Matching Expressions
 
-This code illustrates [my blog](https://blog.adameczek.pl/index.php/2023/04/01/znajdz-dzialania-czesc-ii/), where I show an application giving solutions in a math game.
+This code illustrates [my blog](https://blog.adameczek.pl/index.php/2023/04/01/znajdz-dzialania-czesc-ii/), where I show an application which gives solutions in a math game.
 
-## Math game
+## The game
 
 The rules are
 1. There are given two sets of integers (each element > 0).
@@ -15,8 +15,8 @@ The rules are
 
 ### Examples
 
-1. Set 1: 1, 2, 1
-2. Set 2: 1, 2
+Set 1: 1, 2, 1  
+Set 2: 1, 2
 
 Results:
 1. 1 - 2 * 1 = 1 - 2 = -1
