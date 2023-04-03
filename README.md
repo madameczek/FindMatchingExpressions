@@ -1,4 +1,4 @@
-# FindMatchingExpressions
+# Find Matching Expressions
 
 This code illustrates [my blog](https://blog.adameczek.pl/index.php/2023/04/01/znajdz-dzialania-czesc-ii/), where I show an application giving solutions in a math game.
 
@@ -11,7 +11,7 @@ The rules are
 1. Order of elements can not be changed.
 1. Element can be joined to create new number.
 1. Each intermediate operation gives integer result. Division operation gives no remaining.
-1. Task is to find pairs of expressions which give true equation.
+1. Task is: Find pairs of expressions which give true equation.
 
 ### Examples
 
